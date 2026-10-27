@@ -36,7 +36,7 @@ const Header = () => {
       <Navbar />
 
       <div className="container text-center mx-auto px-8 py-10 md:px-20 lg:px-32 text-white">
-        <h2 className="hero-title text-5xl sm:text-6xl md:text-[52px]">
+        <h2 className="hero-title text-white text-5xl sm:text-6xl md:text-[52px]">
           Discover a Place You'll Love to Call Home.
         </h2>
 
