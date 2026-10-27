@@ -45,13 +45,13 @@ export const Projectdata = [
   {
     name: "2Plot Land",
     image: "land5.jpg",
-    price: "$600,000,000",
+    price: "$60,000,000",
     location: "Abuja, Nigeria",
   },
   {
     name: "1Plot Land",
     image: "land3.webp",
-    price: "$300,000,000",
+    price: "$30,000,000",
     location: "Abuja, Nigeria",
   },
   {
